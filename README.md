@@ -1,7 +1,7 @@
 - 👋 Hi, I’m priyanka
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Core Java, Selenium WebDriver, Manual Testing
-- 💞️ I’m looking to collaborate on work together with each other
+- 💞️ I’m looking to collaborate on work together
 - 📫 How to reach me -through Gmail,mobile calls
 
 <!---
